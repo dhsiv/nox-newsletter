@@ -1,0 +1,6 @@
+:root {
+  --color-black: #000;
+  --color-green: #b6fdbf;
+  --color-red: #ed1f34;
+  --field-bg-color: hsla(0, 0%, 100%, 0.1);
+}
